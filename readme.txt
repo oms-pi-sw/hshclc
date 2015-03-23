@@ -49,7 +49,7 @@ LICENSE:
 	sha224, sha256, sha384, sha512: David Madore
 
 AUTHOR:
-	NiccolÃ² Ferrari: niccolo.ferrari@hotmail.it
+	Niccolò Ferrari: niccolo.ferrari@hotmail.it
 	
 	Hash sum algorithm are considerably copy-pasted from those written by:
 	md5: Ulrich Drepper

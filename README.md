@@ -1,4 +1,4 @@
-# HSHCLC
+# hshclc
 HSH-CLC: hashes calculator
 
 HSH-CLC 1.1u8r10r_Release: a hash calculator.
